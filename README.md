@@ -1,4 +1,4 @@
-# Knowledge Graph Platform Deep Dive
+# Kubernetes Deep Dive
 
 ### session 1: intro to docker and kubernetes architecture
  - docker and docker runtime
